@@ -1,0 +1,955 @@
+INFO 2023-09-22 18:56:46,204 autoreload 7108 29748 Watching for file changes with StatReloader
+INFO 2023-09-22 19:00:14,970 autoreload 32312 32384 Watching for file changes with StatReloader
+INFO 2023-09-25 19:20:11,139 autoreload 4280 23764 Watching for file changes with StatReloader
+WARNING 2023-09-25 19:20:12,816 log 4280 15372 Not Found: /
+WARNING 2023-09-25 19:20:12,817 basehttp 4280 15372 "GET / HTTP/1.1" 404 2274
+WARNING 2023-09-25 19:20:12,995 log 4280 15372 Not Found: /favicon.ico
+WARNING 2023-09-25 19:20:12,996 basehttp 4280 15372 "GET /favicon.ico HTTP/1.1" 404 2325
+WARNING 2023-09-25 19:20:32,689 log 4280 15372 Not Found: /les/
+WARNING 2023-09-25 19:20:32,690 basehttp 4280 15372 "GET /les/ HTTP/1.1" 404 2304
+WARNING 2023-09-25 19:20:50,933 log 4280 15372 Not Found: /les3/
+WARNING 2023-09-25 19:20:50,933 basehttp 4280 15372 "GET /les3/ HTTP/1.1" 404 2548
+INFO 2023-09-25 19:20:57,999 basehttp 4280 15372 "GET /les3/hello/ HTTP/1.1" 200 26
+WARNING 2023-09-25 19:21:23,294 log 4280 15372 Not Found: /
+WARNING 2023-09-25 19:21:23,295 basehttp 4280 15372 "GET / HTTP/1.1" 404 2274
+INFO 2023-09-25 19:21:31,057 basehttp 4280 15372 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2023-09-25 19:21:35,424 basehttp 4280 15372 "GET /les3/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-25 19:25:26,225 autoreload 4280 23764 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:25:26,598 autoreload 3532 14372 Watching for file changes with StatReloader
+INFO 2023-09-25 19:25:42,166 autoreload 3532 14372 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:25:42,539 autoreload 24480 17656 Watching for file changes with StatReloader
+INFO 2023-09-25 19:27:36,711 autoreload 24480 17656 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:27:37,112 autoreload 7500 1360 Watching for file changes with StatReloader
+INFO 2023-09-25 19:29:48,598 autoreload 7500 1360 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:29:48,967 autoreload 17640 27448 Watching for file changes with StatReloader
+INFO 2023-09-25 19:31:17,686 autoreload 17640 27448 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:31:18,076 autoreload 13236 30200 Watching for file changes with StatReloader
+INFO 2023-09-25 19:31:47,750 autoreload 13236 30200 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:31:48,134 autoreload 8948 9072 Watching for file changes with StatReloader
+INFO 2023-09-25 19:31:57,447 autoreload 8948 9072 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:31:57,813 autoreload 22424 2644 Watching for file changes with StatReloader
+INFO 2023-09-25 19:33:21,480 autoreload 22424 2644 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:33:21,872 autoreload 5180 7336 Watching for file changes with StatReloader
+INFO 2023-09-25 19:34:22,086 autoreload 5180 7336 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:34:22,452 autoreload 25552 23736 Watching for file changes with StatReloader
+INFO 2023-09-25 19:36:56,334 autoreload 25552 23736 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:36:56,708 autoreload 18696 2572 Watching for file changes with StatReloader
+WARNING 2023-09-25 19:37:01,820 log 18696 29364 Not Found: /les3/
+WARNING 2023-09-25 19:37:01,820 basehttp 18696 29364 "GET /les3/ HTTP/1.1" 404 3184
+WARNING 2023-09-25 19:37:10,175 log 18696 29364 Not Found: /les3/posts
+WARNING 2023-09-25 19:37:10,175 basehttp 18696 29364 "GET /les3/posts HTTP/1.1" 404 3199
+WARNING 2023-09-25 19:37:17,948 log 18696 29364 Not Found: /les3/posts/
+WARNING 2023-09-25 19:37:17,949 basehttp 18696 29364 "GET /les3/posts/ HTTP/1.1" 404 3202
+INFO 2023-09-25 19:37:35,006 basehttp 18696 29364 "GET /les3/posts/2022 HTTP/1.1" 301 0
+INFO 2023-09-25 19:37:35,019 basehttp 18696 27460 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2023-09-25 19:38:47,371 basehttp 18696 27460 "GET /les3/posts/20226 HTTP/1.1" 301 0
+INFO 2023-09-25 19:38:47,385 basehttp 18696 12840 "GET /les3/posts/20226/ HTTP/1.1" 200 20
+INFO 2023-09-25 19:38:53,493 basehttp 18696 12840 "GET /les3/posts/2022/6/ HTTP/1.1" 200 21
+INFO 2023-09-25 19:38:59,964 basehttp 18696 12840 "GET /les3/posts/2022/6/11 HTTP/1.1" 301 0
+INFO 2023-09-25 19:38:59,975 basehttp 18696 18008 "GET /les3/posts/2022/6/11/ HTTP/1.1" 200 355
+INFO 2023-09-25 19:48:32,527 autoreload 18696 2572 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 19:48:32,944 autoreload 29156 9976 Watching for file changes with StatReloader
+INFO 2023-09-25 19:56:14,843 autoreload 29156 9976 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:56:15,241 autoreload 10140 26476 Watching for file changes with StatReloader
+INFO 2023-09-25 19:57:17,531 autoreload 10140 26476 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 19:57:17,935 autoreload 5340 9008 Watching for file changes with StatReloader
+WARNING 2023-09-25 19:57:39,887 log 5340 28976 Not Found: /
+WARNING 2023-09-25 19:57:39,888 basehttp 5340 28976 "GET / HTTP/1.1" 404 2274
+INFO 2023-09-25 19:57:52,316 basehttp 5340 28976 "GET /les3 HTTP/1.1" 301 0
+INFO 2023-09-25 19:57:52,344 basehttp 5340 18976 "GET /les3/ HTTP/1.1" 200 176
+INFO 2023-09-25 20:07:55,096 autoreload 5340 9008 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:07:55,472 autoreload 5532 30708 Watching for file changes with StatReloader
+INFO 2023-09-25 20:08:09,884 autoreload 5532 30708 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:08:10,265 autoreload 21052 27888 Watching for file changes with StatReloader
+INFO 2023-09-25 20:09:07,827 autoreload 21052 27888 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:09:08,213 autoreload 24020 28208 Watching for file changes with StatReloader
+INFO 2023-09-25 20:10:57,855 autoreload 24020 28208 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:10:58,226 autoreload 5652 10464 Watching for file changes with StatReloader
+INFO 2023-09-25 20:11:13,894 autoreload 5652 10464 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:11:14,276 autoreload 23916 28780 Watching for file changes with StatReloader
+INFO 2023-09-25 20:11:46,334 basehttp 23916 14104 "GET /les3/if HTTP/1.1" 301 0
+ERROR 2023-09-25 20:11:46,387 log 23916 14872 Internal Server Error: /les3/if/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_if.html
+ERROR 2023-09-25 20:11:46,389 basehttp 23916 14872 "GET /les3/if/ HTTP/1.1" 500 87550
+INFO 2023-09-25 20:13:04,486 basehttp 23916 14872 "GET /les3/if/ HTTP/1.1" 200 361
+INFO 2023-09-25 20:13:52,234 basehttp 23916 14872 "GET /les3/if/ HTTP/1.1" 200 361
+INFO 2023-09-25 20:13:53,458 basehttp 23916 14872 "GET /les3/if/ HTTP/1.1" 200 360
+INFO 2023-09-25 20:18:43,588 autoreload 23916 28780 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:18:43,966 autoreload 26164 10548 Watching for file changes with StatReloader
+INFO 2023-09-25 20:19:18,037 autoreload 26164 10548 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:19:18,429 autoreload 21052 24316 Watching for file changes with StatReloader
+INFO 2023-09-25 20:21:02,935 autoreload 21052 24316 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:21:03,305 autoreload 22188 2288 Watching for file changes with StatReloader
+INFO 2023-09-25 20:21:49,294 autoreload 22188 2288 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:21:49,668 autoreload 18864 21620 Watching for file changes with StatReloader
+INFO 2023-09-25 20:22:46,871 autoreload 18864 21620 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:22:47,246 autoreload 22096 4572 Watching for file changes with StatReloader
+INFO 2023-09-25 20:22:49,680 basehttp 22096 21656 "GET /les3/for/ HTTP/1.1" 200 853
+INFO 2023-09-25 20:22:50,759 basehttp 22096 21656 "GET /les3/for/ HTTP/1.1" 200 853
+INFO 2023-09-25 20:33:50,012 autoreload 22096 4572 E:\python_Django\myproject\myapp3\views.py changed, reloading.
+INFO 2023-09-25 20:33:50,393 autoreload 22268 27636 Watching for file changes with StatReloader
+INFO 2023-09-25 20:34:23,432 autoreload 22268 27636 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:34:23,807 autoreload 8384 9700 Watching for file changes with StatReloader
+INFO 2023-09-25 20:35:30,563 autoreload 8384 9700 E:\python_Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2023-09-25 20:35:30,947 autoreload 26596 21212 Watching for file changes with StatReloader
+INFO 2023-09-25 20:35:40,580 basehttp 26596 2948 "GET /les3/posts/2022/6/11/ HTTP/1.1" 200 355
+INFO 2023-09-25 20:35:46,215 basehttp 26596 2948 "GET /les3/ HTTP/1.1" 200 176
+INFO 2023-09-25 20:35:53,537 basehttp 26596 2948 "GET /les3/index HTTP/1.1" 301 0
+INFO 2023-09-25 20:35:53,557 basehttp 26596 27524 "GET /les3/index/ HTTP/1.1" 200 205
+INFO 2023-09-25 20:36:02,992 basehttp 26596 27524 "GET /les3/about HTTP/1.1" 301 0
+INFO 2023-09-25 20:36:03,013 basehttp 26596 18196 "GET /les3/about/ HTTP/1.1" 200 213
+INFO 2023-09-25 20:42:10,293 autoreload 26596 21212 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-09-25 20:42:10,681 autoreload 27636 30576 Watching for file changes with StatReloader
+ERROR 2023-09-25 20:45:24,082 log 27636 21936 Internal Server Error: /les3/index/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\myproject\myapp3\views.py", line 65, in index
+    return render(request, "myapp3/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\python_Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'extends' cannot appear more than once in the same template
+ERROR 2023-09-25 20:45:24,086 basehttp 27636 21936 "GET /les3/index/ HTTP/1.1" 500 138510
+INFO 2023-09-25 20:46:20,455 basehttp 27636 21936 "GET /les3/index/ HTTP/1.1" 200 307
+INFO 2023-09-25 20:47:29,256 autoreload 27636 30576 E:\python_Django\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-25 20:47:29,632 autoreload 17972 6128 Watching for file changes with StatReloader
+INFO 2023-09-25 20:48:11,555 autoreload 17972 6128 E:\python_Django\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-25 20:48:11,940 autoreload 8692 21788 Watching for file changes with StatReloader
+INFO 2023-09-25 20:48:23,579 basehttp 8692 18068 "GET / HTTP/1.1" 200 307
+INFO 2023-09-25 20:49:55,707 autoreload 8692 21788 E:\python_Django\myproject\myapp3\models.py changed, reloading.
+INFO 2023-09-25 20:49:56,088 autoreload 29876 21872 Watching for file changes with StatReloader
+INFO 2023-09-25 20:51:35,565 autoreload 29876 21872 E:\python_Django\myproject\myapp3\models.py changed, reloading.
+INFO 2023-09-25 20:51:35,937 autoreload 12216 26164 Watching for file changes with StatReloader
+INFO 2023-09-25 21:18:05,500 autoreload 3148 12200 Watching for file changes with StatReloader
+INFO 2023-09-25 21:18:17,071 basehttp 3148 26468 "GET / HTTP/1.1" 200 307
+INFO 2023-09-25 21:18:41,881 basehttp 3148 26468 "GET /les3/author/5 HTTP/1.1" 301 0
+INFO 2023-09-25 21:18:41,905 basehttp 3148 14488 "GET /les3/author/5/ HTTP/1.1" 200 1239
+INFO 2023-09-25 21:19:34,656 basehttp 3148 12852 "GET /les3/post/50/ HTTP/1.1" 200 696
+INFO 2023-09-25 21:19:37,603 basehttp 3148 12852 "GET /les3/post/46/ HTTP/1.1" 200 700
+INFO 2023-09-25 21:19:46,430 basehttp 3148 12852 "GET /les3/post/47/ HTTP/1.1" 200 644
+INFO 2023-09-28 18:54:50,188 autoreload 29236 22668 Watching for file changes with StatReloader
+INFO 2023-09-28 18:54:51,600 basehttp 29236 19992 "GET / HTTP/1.1" 200 307
+WARNING 2023-09-28 18:54:51,736 log 29236 19992 Not Found: /favicon.ico
+WARNING 2023-09-28 18:54:51,736 basehttp 29236 19992 "GET /favicon.ico HTTP/1.1" 404 2530
+ERROR 2023-09-28 18:55:04,375 log 29236 19992 Internal Server Error: /les4/user/add
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp4.views.user_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-09-28 18:55:04,377 basehttp 29236 19992 "GET /les4/user/add HTTP/1.1" 500 74374
+WARNING 2023-09-28 18:55:18,285 log 29236 19992 Not Found: /les4/user_add
+WARNING 2023-09-28 18:55:18,285 basehttp 29236 19992 "GET /les4/user_add HTTP/1.1" 404 2609
+ERROR 2023-09-28 18:57:02,844 log 29236 19992 Internal Server Error: /les4/user/add
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp4.views.user_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-09-28 18:57:02,845 basehttp 29236 19992 "GET /les4/user/add HTTP/1.1" 500 74374
+INFO 2023-09-28 19:04:44,328 autoreload 29236 22668 E:\python_Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-28 19:04:44,713 autoreload 17092 16992 Watching for file changes with StatReloader
+INFO 2023-09-28 19:06:19,625 basehttp 17092 364 "GET / HTTP/1.1" 200 318
+WARNING 2023-09-28 19:06:35,528 log 17092 364 Not Found: /les4
+WARNING 2023-09-28 19:06:35,529 basehttp 17092 364 "GET /les4 HTTP/1.1" 404 2509
+WARNING 2023-09-28 19:07:00,927 log 17092 364 Not Found: /les4/
+WARNING 2023-09-28 19:07:00,927 basehttp 17092 364 "GET /les4/ HTTP/1.1" 404 2586
+ERROR 2023-09-28 19:07:15,790 log 17092 364 Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp4.views.user_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-09-28 19:07:15,791 basehttp 17092 364 "GET /les4/user/add/ HTTP/1.1" 500 74383
+INFO 2023-09-28 19:09:04,153 autoreload 17092 16992 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 19:09:04,526 autoreload 5000 7468 Watching for file changes with StatReloader
+ERROR 2023-09-28 19:09:04,725 log 5000 8824 Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\myproject\myapp4\views.py", line 20, in user_form
+    return render(request, 'myapp4/user_form.html', {'form': form})
+                                                             ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+ERROR 2023-09-28 19:09:04,727 basehttp 5000 8824 "GET /les4/user/add/ HTTP/1.1" 500 72962
+INFO 2023-09-28 19:09:39,698 autoreload 5000 7468 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 19:09:40,069 autoreload 29452 7816 Watching for file changes with StatReloader
+INFO 2023-09-28 19:09:40,690 basehttp 29452 2788 "GET /les4/user/add/ HTTP/1.1" 200 760
+INFO 2023-09-28 19:13:15,644 basehttp 29452 2788 "GET /les4/user/add/ HTTP/1.1" 200 978
+INFO 2023-09-28 19:16:52,125 autoreload 29452 7816 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:16:52,526 autoreload 22968 9596 Watching for file changes with StatReloader
+INFO 2023-09-28 19:35:07,508 autoreload 22968 9596 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:35:07,887 autoreload 17964 10660 Watching for file changes with StatReloader
+INFO 2023-09-28 19:35:09,229 basehttp 17964 12724 "GET /les4/forms HTTP/1.1" 301 0
+INFO 2023-09-28 19:35:09,256 basehttp 17964 7900 "GET /les4/forms/ HTTP/1.1" 200 1521
+INFO 2023-09-28 19:41:41,327 autoreload 17964 10660 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:41:41,721 autoreload 22988 26828 Watching for file changes with StatReloader
+INFO 2023-09-28 19:44:37,005 autoreload 22988 26828 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:44:37,398 autoreload 23512 9624 Watching for file changes with StatReloader
+INFO 2023-09-28 19:45:04,348 autoreload 23512 9624 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 19:45:04,722 autoreload 17012 28640 Watching for file changes with StatReloader
+INFO 2023-09-28 19:45:24,238 basehttp 17012 6948 "GET /les4/forms/ HTTP/1.1" 200 2142
+INFO 2023-09-28 19:47:54,026 autoreload 17012 28640 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:47:54,403 autoreload 24828 17280 Watching for file changes with StatReloader
+INFO 2023-09-28 19:48:07,435 basehttp 24828 30512 "GET /les4/forms/ HTTP/1.1" 200 2142
+INFO 2023-09-28 19:50:50,897 autoreload 24828 17280 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:50:51,275 autoreload 28484 29416 Watching for file changes with StatReloader
+INFO 2023-09-28 19:51:53,638 autoreload 28484 29416 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 19:51:54,022 autoreload 27608 15840 Watching for file changes with StatReloader
+INFO 2023-09-28 19:55:47,573 autoreload 27608 15840 E:\python_Django\myproject\myapp4\models.py changed, reloading.
+INFO 2023-09-28 19:55:47,967 autoreload 24984 17208 Watching for file changes with StatReloader
+INFO 2023-09-28 20:02:31,789 autoreload 29212 13352 Watching for file changes with StatReloader
+INFO 2023-09-28 20:02:47,702 basehttp 29212 27104 "GET /les4/user HTTP/1.1" 301 0
+INFO 2023-09-28 20:02:47,722 basehttp 29212 30420 "GET /les4/user/ HTTP/1.1" 200 1019
+INFO 2023-09-28 20:03:37,847 basehttp 29212 30420 "GET /les4/user/ HTTP/1.1" 200 958
+INFO 2023-09-28 20:04:29,754 basehttp 29212 30420 "POST /les4/user/ HTTP/1.1" 200 1217
+INFO 2023-09-28 20:10:19,759 autoreload 29212 13352 E:\python_Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2023-09-28 20:10:20,156 autoreload 16932 7104 Watching for file changes with StatReloader
+INFO 2023-09-28 20:11:23,931 autoreload 16932 7104 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-09-28 20:11:24,320 autoreload 29808 8672 Watching for file changes with StatReloader
+INFO 2023-09-28 20:11:41,039 autoreload 29808 8672 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-09-28 20:11:41,412 autoreload 11160 19788 Watching for file changes with StatReloader
+INFO 2023-09-28 20:13:19,940 autoreload 11160 19788 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 20:13:20,308 autoreload 21972 29340 Watching for file changes with StatReloader
+INFO 2023-09-28 20:13:40,861 autoreload 21972 29340 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 20:13:41,242 autoreload 26560 19128 Watching for file changes with StatReloader
+INFO 2023-09-28 20:15:45,306 autoreload 26560 19128 E:\python_Django\myproject\myapp4\views.py changed, reloading.
+INFO 2023-09-28 20:15:45,677 autoreload 30516 15508 Watching for file changes with StatReloader
+INFO 2023-09-28 20:17:26,245 autoreload 30516 15508 E:\python_Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2023-09-28 20:17:26,622 autoreload 24588 15340 Watching for file changes with StatReloader
+INFO 2023-09-28 20:18:16,267 basehttp 24588 11812 "GET /les4/upload HTTP/1.1" 301 0
+INFO 2023-09-28 20:18:16,288 basehttp 24588 8880 "GET /les4/upload/ HTTP/1.1" 200 646
+INFO 2023-09-28 20:18:54,652 basehttp 24588 8880 "POST /les4/upload/ HTTP/1.1" 200 646
+INFO 2023-10-02 19:11:31,642 autoreload 29840 13036 Watching for file changes with StatReloader
+INFO 2023-10-02 19:11:33,291 basehttp 29840 18336 "GET / HTTP/1.1" 200 318
+WARNING 2023-10-02 19:11:33,480 log 29840 18336 Not Found: /favicon.ico
+WARNING 2023-10-02 19:11:33,481 basehttp 29840 18336 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2023-10-02 19:11:50,828 basehttp 29840 18336 "GET /admin HTTP/1.1" 301 0
+INFO 2023-10-02 19:11:50,848 basehttp 29840 11036 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:11:50,920 basehttp 29840 11036 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-10-02 19:11:51,103 basehttp 29840 19796 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-10-02 19:11:51,115 basehttp 29840 22752 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-10-02 19:11:51,118 basehttp 29840 11036 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-10-02 19:11:51,121 basehttp 29840 31152 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-10-02 19:11:51,122 basehttp 29840 22436 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-10-02 19:11:51,138 basehttp 29840 31152 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-10-02 19:11:51,139 basehttp 29840 22436 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-10-02 19:13:16,747 autoreload 29840 13036 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-02 19:14:22,167 autoreload 20520 6672 Watching for file changes with StatReloader
+INFO 2023-10-02 19:14:22,304 basehttp 20520 26184 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:14:22,333 basehttp 20520 26184 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:14:23,479 basehttp 20520 26184 "GET / HTTP/1.1" 200 318
+INFO 2023-10-02 19:14:31,239 basehttp 20520 26184 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:14:31,253 basehttp 20520 26184 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:19:55,509 autoreload 21232 5704 Watching for file changes with StatReloader
+INFO 2023-10-02 19:19:59,066 basehttp 21232 14588 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+ERROR 2023-10-02 19:20:14,894 log 21232 14588 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 313, in _commit
+    return self.connection.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 54, in create
+    self.save(must_create=True)
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 85, in save
+    with transaction.atomic(using=using):
+  File "E:\python_Django\venv\Lib\site-packages\django\db\transaction.py", line 263, in __exit__
+    connection.commit()
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 337, in commit
+    self._commit()
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 312, in _commit
+    with debug_transaction(self, "COMMIT"), self.wrap_database_errors:
+  File "E:\python_Django\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 313, in _commit
+    return self.connection.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-10-02 19:20:14,901 basehttp 21232 14588 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 184926
+ERROR 2023-10-02 19:20:20,782 log 21232 28972 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 313, in _commit
+    return self.connection.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 54, in create
+    self.save(must_create=True)
+  File "E:\python_Django\venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 85, in save
+    with transaction.atomic(using=using):
+  File "E:\python_Django\venv\Lib\site-packages\django\db\transaction.py", line 263, in __exit__
+    connection.commit()
+  File "E:\python_Django\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 337, in commit
+    self._commit()
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 312, in _commit
+    with debug_transaction(self, "COMMIT"), self.wrap_database_errors:
+  File "E:\python_Django\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python_Django\venv\Lib\site-packages\django\db\backends\base\base.py", line 313, in _commit
+    return self.connection.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2023-10-02 19:20:20,787 basehttp 21232 28972 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 184926
+INFO 2023-10-02 19:20:33,893 basehttp 21232 28972 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:20:33,926 basehttp 21232 28972 "GET /admin/ HTTP/1.1" 200 5852
+INFO 2023-10-02 19:20:34,004 basehttp 21232 21948 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-10-02 19:20:34,017 basehttp 21232 21948 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-10-02 19:20:34,017 basehttp 21232 28972 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-10-02 19:22:23,698 basehttp 21232 21948 "GET /admin/auth/user/ HTTP/1.1" 200 11316
+INFO 2023-10-02 19:22:23,756 basehttp 21232 28972 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-10-02 19:22:23,760 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:22:23,760 basehttp 21232 14620 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-10-02 19:22:23,762 basehttp 21232 22668 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-10-02 19:22:23,766 basehttp 21232 21948 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-10-02 19:22:23,770 basehttp 21232 28972 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-10-02 19:22:23,773 basehttp 21232 14620 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-10-02 19:22:23,773 basehttp 21232 16408 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-10-02 19:22:23,776 basehttp 21232 30380 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-10-02 19:22:23,781 basehttp 21232 22668 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-10-02 19:22:23,830 basehttp 21232 30380 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-10-02 19:22:23,842 basehttp 21232 30380 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-10-02 19:22:23,843 basehttp 21232 22668 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-10-02 19:22:23,843 basehttp 21232 14620 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-10-02 19:22:23,857 basehttp 21232 22668 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2023-10-02 19:22:45,522 basehttp 21232 22668 "GET /admin/auth/user/add/ HTTP/1.1" 200 10988
+INFO 2023-10-02 19:22:45,565 basehttp 21232 30380 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:22:45,565 basehttp 21232 14620 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-10-02 19:22:45,567 basehttp 21232 16408 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-10-02 19:22:45,581 basehttp 21232 14620 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-10-02 19:22:45,583 basehttp 21232 16408 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-10-02 19:23:30,079 basehttp 21232 16408 "POST /admin/auth/user/add/ HTTP/1.1" 200 11369
+INFO 2023-10-02 19:23:30,125 basehttp 21232 14620 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:23:48,464 basehttp 21232 14620 "POST /admin/auth/user/add/ HTTP/1.1" 200 11369
+INFO 2023-10-02 19:23:48,505 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:24:02,377 basehttp 21232 16408 "POST /admin/auth/user/add/ HTTP/1.1" 200 11217
+INFO 2023-10-02 19:24:02,424 basehttp 21232 14620 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:24:09,474 basehttp 21232 14620 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:24:09,540 basehttp 21232 14620 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 23925
+INFO 2023-10-02 19:24:09,590 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:24:09,593 basehttp 21232 28972 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-10-02 19:24:09,595 basehttp 21232 30380 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2023-10-02 19:24:09,596 basehttp 21232 21948 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-10-02 19:24:09,596 basehttp 21232 22668 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2023-10-02 19:24:09,672 basehttp 21232 22668 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-10-02 19:24:09,672 basehttp 21232 21948 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-10-02 19:24:09,673 basehttp 21232 28972 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2023-10-02 19:24:09,673 basehttp 21232 30380 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-10-02 19:24:09,681 basehttp 21232 16408 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2023-10-02 19:25:52,889 basehttp 21232 16408 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:25:52,913 basehttp 21232 16408 "GET /admin/auth/user/ HTTP/1.1" 200 11940
+INFO 2023-10-02 19:25:52,956 basehttp 21232 28972 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:26:05,279 basehttp 21232 28972 "GET /admin/auth/group/add/ HTTP/1.1" 200 13314
+INFO 2023-10-02 19:26:05,321 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:26:57,799 basehttp 21232 16408 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:26:57,824 basehttp 21232 16408 "GET /admin/auth/group/ HTTP/1.1" 200 9114
+INFO 2023-10-02 19:26:57,864 basehttp 21232 28972 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:26:59,574 basehttp 21232 28972 "GET /admin/auth/user/ HTTP/1.1" 200 12025
+INFO 2023-10-02 19:26:59,614 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:27:11,995 basehttp 21232 16408 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 23724
+INFO 2023-10-02 19:27:12,045 basehttp 21232 28972 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:27:27,157 basehttp 21232 28972 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:27:27,181 basehttp 21232 28972 "GET /admin/auth/user/ HTTP/1.1" 200 12246
+INFO 2023-10-02 19:27:27,221 basehttp 21232 16408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:27:38,808 basehttp 21232 16408 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-02 19:27:45,618 basehttp 21232 16408 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:27:45,633 basehttp 21232 16408 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:28:02,431 basehttp 21232 16408 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:28:02,450 basehttp 21232 16408 "GET /admin/ HTTP/1.1" 200 4801
+INFO 2023-10-02 19:30:38,130 autoreload 21232 5704 E:\python_Django\myproject\myapp5\models.py changed, reloading.
+INFO 2023-10-02 19:30:38,535 autoreload 29816 31344 Watching for file changes with StatReloader
+INFO 2023-10-02 19:31:41,289 autoreload 29816 31344 E:\python_Django\myproject\myapp5\models.py changed, reloading.
+INFO 2023-10-02 19:31:41,684 autoreload 16600 3504 Watching for file changes with StatReloader
+INFO 2023-10-02 19:34:18,402 autoreload 8956 9652 Watching for file changes with StatReloader
+INFO 2023-10-02 19:34:24,713 basehttp 8956 30504 "GET /admin/ HTTP/1.1" 200 4801
+INFO 2023-10-02 19:34:30,286 basehttp 8956 30504 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-02 19:34:37,261 basehttp 8956 30504 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:34:37,283 basehttp 8956 30504 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:34:47,222 basehttp 8956 30504 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:34:47,244 basehttp 8956 30504 "GET /admin/ HTTP/1.1" 200 8207
+INFO 2023-10-02 19:36:30,301 autoreload 8956 9652 E:\python_Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2023-10-02 19:36:30,700 autoreload 13836 28732 Watching for file changes with StatReloader
+INFO 2023-10-02 19:36:39,965 basehttp 13836 24716 "GET /admin/ HTTP/1.1" 200 9322
+INFO 2023-10-02 19:37:25,760 basehttp 13836 24716 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-02 19:37:27,206 basehttp 13836 24716 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:37:27,228 basehttp 13836 24716 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:37:30,404 basehttp 13836 24716 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:37:30,425 basehttp 13836 24716 "GET /admin/ HTTP/1.1" 200 5340
+INFO 2023-10-02 19:37:51,000 basehttp 13836 24716 "GET /admin/myapp3/post/ HTTP/1.1" 200 17374
+INFO 2023-10-02 19:37:56,970 basehttp 13836 24716 "GET /admin/myapp3/post/100/change/ HTTP/1.1" 200 10437
+INFO 2023-10-02 19:37:57,016 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:38:24,662 basehttp 13836 22308 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-02 19:38:26,686 basehttp 13836 22308 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:38:26,700 basehttp 13836 22308 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-02 19:38:29,585 basehttp 13836 22308 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:38:29,612 basehttp 13836 22308 "GET /admin/ HTTP/1.1" 200 9322
+INFO 2023-10-02 19:38:39,400 basehttp 13836 22308 "GET /admin/myapp3/post/ HTTP/1.1" 200 31590
+INFO 2023-10-02 19:38:39,445 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:04,043 basehttp 13836 24716 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 9821
+INFO 2023-10-02 19:39:04,079 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:12,216 basehttp 13836 22308 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:39:12,238 basehttp 13836 22308 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 10111
+INFO 2023-10-02 19:39:12,274 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:16,366 basehttp 13836 24716 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:39:16,393 basehttp 13836 24716 "GET /admin/myapp5/category/ HTTP/1.1" 200 10662
+INFO 2023-10-02 19:39:16,427 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:18,247 basehttp 13836 22308 "GET /admin/myapp5/category/ HTTP/1.1" 200 10450
+INFO 2023-10-02 19:39:18,280 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:37,695 basehttp 13836 24716 "GET /admin/myapp5/product/ HTTP/1.1" 200 8973
+INFO 2023-10-02 19:39:37,735 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:39,313 basehttp 13836 22308 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11675
+INFO 2023-10-02 19:39:39,350 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:39:39,405 basehttp 13836 24716 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-10-02 19:39:55,757 basehttp 13836 24716 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:39:55,779 basehttp 13836 24716 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11956
+INFO 2023-10-02 19:39:55,814 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:40:02,432 basehttp 13836 22308 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:40:02,455 basehttp 13836 22308 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11962
+INFO 2023-10-02 19:40:02,488 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:40:14,160 basehttp 13836 24716 "GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4478
+INFO 2023-10-02 19:40:14,208 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:40:33,984 basehttp 13836 22308 "POST /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2023-10-02 19:40:34,016 basehttp 13836 24716 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2023-10-02 19:40:35,837 basehttp 13836 24716 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:40:35,866 basehttp 13836 24716 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12003
+INFO 2023-10-02 19:40:35,901 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:40:55,659 basehttp 13836 22308 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:40:55,683 basehttp 13836 22308 "GET /admin/myapp5/product/ HTTP/1.1" 200 11077
+INFO 2023-10-02 19:40:55,717 basehttp 13836 24716 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:40:56,681 basehttp 13836 24716 "GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+INFO 2023-10-02 19:40:56,716 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:41:24,088 basehttp 13836 22308 "POST /admin/myapp5/product/ HTTP/1.1" 200 9153
+INFO 2023-10-02 19:41:24,128 basehttp 13836 24716 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2023-10-02 19:41:30,571 basehttp 13836 24716 "POST /admin/myapp5/product/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:41:30,594 basehttp 13836 24716 "GET /admin/myapp5/product/ HTTP/1.1" 200 10800
+INFO 2023-10-02 19:41:30,630 basehttp 13836 22308 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:51:22,449 autoreload 13836 28732 E:\python_Django\myproject\myapp5\models.py changed, reloading.
+INFO 2023-10-02 19:51:22,852 autoreload 23808 24948 Watching for file changes with StatReloader
+INFO 2023-10-02 19:52:50,196 autoreload 23808 24948 E:\python_Django\myproject\myapp5\models.py changed, reloading.
+INFO 2023-10-02 19:52:50,587 autoreload 11268 19328 Watching for file changes with StatReloader
+INFO 2023-10-02 19:55:14,370 autoreload 30144 31052 Watching for file changes with StatReloader
+INFO 2023-10-02 19:56:34,302 autoreload 24740 9024 Watching for file changes with StatReloader
+INFO 2023-10-02 19:56:37,798 basehttp 24740 22068 "GET /admin/myapp5/product/ HTTP/1.1" 200 10654
+INFO 2023-10-02 19:56:37,839 basehttp 24740 6776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:56:40,452 basehttp 24740 6776 "GET /admin/ HTTP/1.1" 200 11008
+INFO 2023-10-02 19:56:40,545 basehttp 24740 6776 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2023-10-02 19:57:00,840 basehttp 24740 6776 "GET /admin/myapp5/product/ HTTP/1.1" 200 10654
+INFO 2023-10-02 19:57:00,879 basehttp 24740 22068 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:57:02,514 basehttp 24740 22068 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 14492
+INFO 2023-10-02 19:57:02,549 basehttp 24740 6776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:57:14,312 basehttp 24740 6776 "POST /admin/myapp5/product/4/change/ HTTP/1.1" 302 0
+INFO 2023-10-02 19:57:14,335 basehttp 24740 6776 "GET /admin/myapp5/product/ HTTP/1.1" 200 10872
+INFO 2023-10-02 19:57:14,372 basehttp 24740 22068 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:57:21,694 basehttp 24740 22068 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 14468
+INFO 2023-10-02 19:57:21,731 basehttp 24740 6776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:57:41,147 basehttp 24740 6776 "GET /admin/myapp5/product/ HTTP/1.1" 200 10654
+INFO 2023-10-02 19:57:41,190 basehttp 24740 22068 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:58:23,318 autoreload 24740 9024 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 19:58:23,711 autoreload 13036 30740 Watching for file changes with StatReloader
+INFO 2023-10-02 19:59:25,087 autoreload 13036 30740 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 19:59:25,464 autoreload 9640 24704 Watching for file changes with StatReloader
+INFO 2023-10-02 19:59:28,239 basehttp 9640 28012 "GET /admin/myapp5/product/ HTTP/1.1" 200 11192
+INFO 2023-10-02 19:59:28,275 basehttp 9640 23600 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:59:35,546 basehttp 9640 23600 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 11600
+INFO 2023-10-02 19:59:35,601 basehttp 9640 28012 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:59:38,563 basehttp 9640 28012 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 11606
+INFO 2023-10-02 19:59:38,602 basehttp 9640 23600 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:59:39,344 basehttp 9640 23600 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 11600
+INFO 2023-10-02 19:59:39,375 basehttp 9640 28012 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 19:59:40,172 basehttp 9640 28012 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 11606
+INFO 2023-10-02 19:59:40,208 basehttp 9640 23600 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:00:06,570 basehttp 9640 23600 "GET /admin/myapp5/product/?o=2.-1 HTTP/1.1" 200 12098
+INFO 2023-10-02 20:00:06,604 basehttp 9640 28012 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:00:08,419 basehttp 9640 28012 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 11606
+INFO 2023-10-02 20:00:08,454 basehttp 9640 23600 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:00:44,809 autoreload 9640 24704 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:00:45,198 autoreload 12768 25920 Watching for file changes with StatReloader
+INFO 2023-10-02 20:00:58,747 basehttp 12768 2376 "GET /admin/myapp5/product/ HTTP/1.1" 200 11982
+INFO 2023-10-02 20:00:58,782 basehttp 12768 9712 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:01:49,178 autoreload 12768 25920 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:01:49,568 autoreload 29320 20304 Watching for file changes with StatReloader
+INFO 2023-10-02 20:01:50,522 basehttp 29320 30096 "GET /admin/myapp5/product/ HTTP/1.1" 200 13234
+INFO 2023-10-02 20:01:50,557 basehttp 29320 28968 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:03:38,446 autoreload 29320 20304 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:03:38,838 autoreload 26416 26428 Watching for file changes with StatReloader
+INFO 2023-10-02 20:03:39,301 basehttp 26416 15864 "GET /admin/myapp5/product/ HTTP/1.1" 200 13728
+INFO 2023-10-02 20:03:39,341 basehttp 26416 26564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:07:01,941 autoreload 26416 26428 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:07:02,335 autoreload 1712 28728 Watching for file changes with StatReloader
+INFO 2023-10-02 20:08:37,837 autoreload 1712 28728 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:08:38,219 autoreload 25972 4540 Watching for file changes with StatReloader
+INFO 2023-10-02 20:08:38,828 basehttp 25972 12856 "GET /admin/myapp5/product/ HTTP/1.1" 200 13821
+INFO 2023-10-02 20:08:38,865 basehttp 25972 22008 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:08:46,417 basehttp 25972 22008 "POST /admin/myapp5/product/ HTTP/1.1" 302 0
+INFO 2023-10-02 20:08:46,442 basehttp 25972 22008 "GET /admin/myapp5/product/ HTTP/1.1" 200 13821
+INFO 2023-10-02 20:08:46,484 basehttp 25972 12856 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:12:14,606 autoreload 25972 4540 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:12:14,999 autoreload 13532 11720 Watching for file changes with StatReloader
+INFO 2023-10-02 20:12:43,042 basehttp 13532 18760 "GET /admin/myapp5/product/ HTTP/1.1" 200 13821
+INFO 2023-10-02 20:12:43,084 basehttp 13532 17180 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:12:46,716 basehttp 13532 17180 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 13712
+INFO 2023-10-02 20:12:46,758 basehttp 13532 18760 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:13:59,933 autoreload 13532 11720 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:14:00,317 autoreload 6712 7088 Watching for file changes with StatReloader
+INFO 2023-10-02 20:14:59,629 autoreload 6712 7088 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:15:00,028 autoreload 28656 23156 Watching for file changes with StatReloader
+INFO 2023-10-02 20:15:30,042 autoreload 28656 23156 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:15:30,431 autoreload 1992 4064 Watching for file changes with StatReloader
+INFO 2023-10-02 20:17:01,794 autoreload 1992 4064 E:\python_Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2023-10-02 20:17:02,181 autoreload 9900 10668 Watching for file changes with StatReloader
+INFO 2023-10-02 20:17:04,346 basehttp 9900 1448 "GET /admin/myapp5/product/ HTTP/1.1" 200 13821
+INFO 2023-10-02 20:17:04,390 basehttp 9900 15440 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:17:06,019 basehttp 9900 15440 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 15626
+INFO 2023-10-02 20:17:06,064 basehttp 9900 1448 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-02 20:17:06,111 basehttp 9900 7216 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2023-10-05 18:20:42,008 autoreload 5224 5284 Watching for file changes with StatReloader
+INFO 2023-10-05 18:20:48,149 basehttp 5224 18328 "GET / HTTP/1.1" 200 10092
+INFO 2023-10-05 18:20:48,192 basehttp 5224 18368 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-10-05 18:20:48,198 basehttp 5224 4792 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-10-05 18:20:48,245 basehttp 5224 4792 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-10-05 18:20:48,249 basehttp 5224 18368 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2023-10-05 18:20:48,321 log 5224 18368 Not Found: /favicon.ico
+WARNING 2023-10-05 18:20:48,321 basehttp 5224 18368 "GET /favicon.ico HTTP/1.1" 404 12406
+INFO 2023-10-05 18:21:36,209 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=HistoryPanel HTTP/1.1" 200 4150
+INFO 2023-10-05 18:21:36,226 basehttp 5224 18368 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2023-10-05 18:21:59,031 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2023-10-05 18:22:12,407 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=SettingsPanel HTTP/1.1" 200 26855
+INFO 2023-10-05 18:22:34,640 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=HeadersPanel HTTP/1.1" 200 5283
+INFO 2023-10-05 18:23:21,047 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=RequestPanel HTTP/1.1" 200 1606
+INFO 2023-10-05 18:23:59,123 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=SQLPanel HTTP/1.1" 200 14355
+INFO 2023-10-05 18:25:34,387 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=TemplatesPanel HTTP/1.1" 200 5985
+INFO 2023-10-05 18:25:55,504 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2023-10-05 18:26:04,630 basehttp 5224 18368 "GET /__debug__/render_panel/?store_id=150a4022439f4352bd56aa9a586f1737&panel_id=SignalsPanel HTTP/1.1" 200 2265
+INFO 2023-10-05 18:51:29,679 autoreload 21660 19156 Watching for file changes with StatReloader
+INFO 2023-10-05 18:51:30,908 basehttp 21660 3160 "GET / HTTP/1.1" 200 10095
+INFO 2023-10-05 18:51:30,957 basehttp 21660 17780 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-05 18:51:30,957 basehttp 21660 9532 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-05 18:51:31,005 basehttp 21660 9532 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-05 18:51:31,006 basehttp 21660 17780 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2023-10-05 18:51:44,871 log 21660 9532 Not Found: /les6
+WARNING 2023-10-05 18:51:44,871 basehttp 21660 9532 "GET /les6 HTTP/1.1" 404 12483
+WARNING 2023-10-05 18:52:46,681 log 21660 9532 Not Found: /les6/
+WARNING 2023-10-05 18:52:46,682 basehttp 21660 9532 "GET /les6/ HTTP/1.1" 404 12896
+INFO 2023-10-05 18:52:59,299 basehttp 21660 9532 "GET /les6/db HTTP/1.1" 301 0
+INFO 2023-10-05 18:52:59,451 basehttp 21660 17780 "GET /les6/db/ HTTP/1.1" 200 10217
+INFO 2023-10-05 18:53:51,598 basehttp 21660 17780 "GET /__debug__/render_panel/?store_id=99a65bee4f88419abad1b53d57865e12&panel_id=RequestPanel HTTP/1.1" 200 1386
+INFO 2023-10-05 18:53:53,137 basehttp 21660 17780 "GET /__debug__/render_panel/?store_id=99a65bee4f88419abad1b53d57865e12&panel_id=SQLPanel HTTP/1.1" 200 4731
+INFO 2023-10-05 18:54:27,807 basehttp 21660 17780 "GET /les6/view HTTP/1.1" 301 0
+INFO 2023-10-05 18:54:27,940 basehttp 21660 3160 "GET /les6/view/ HTTP/1.1" 200 10202
+INFO 2023-10-05 18:54:46,015 basehttp 21660 3160 "GET /__debug__/render_panel/?store_id=925f524ba26e473ebc017fb2b409ece3&panel_id=SQLPanel HTTP/1.1" 200 5938
+INFO 2023-10-05 18:55:38,646 basehttp 21660 3160 "GET /les6/template HTTP/1.1" 301 0
+INFO 2023-10-05 18:55:38,666 basehttp 21660 22424 "GET /les6/template/ HTTP/1.1" 200 10180
+INFO 2023-10-05 18:55:38,701 basehttp 21660 14104 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-05 18:55:38,701 basehttp 21660 27148 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-05 18:55:38,715 basehttp 21660 22424 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-05 18:55:38,715 basehttp 21660 14104 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-05 18:59:19,637 autoreload 21660 19156 E:\python_Django\myproject\myapp6\models.py changed, reloading.
+INFO 2023-10-05 18:59:20,070 autoreload 13952 26880 Watching for file changes with StatReloader
+INFO 2023-10-05 18:59:38,449 basehttp 13952 26048 "GET /__debug__/render_panel/?store_id=115d2715aa3942788cefdc6bf42f19d6&panel_id=SQLPanel HTTP/1.1" 200 531
+INFO 2023-10-05 18:59:42,730 basehttp 13952 26048 "GET /__debug__/render_panel/?store_id=115d2715aa3942788cefdc6bf42f19d6&panel_id=RequestPanel HTTP/1.1" 200 531
+INFO 2023-10-05 18:59:45,918 basehttp 13952 26048 "GET /__debug__/render_panel/?store_id=115d2715aa3942788cefdc6bf42f19d6&panel_id=HeadersPanel HTTP/1.1" 200 531
+INFO 2023-10-05 18:59:48,454 basehttp 13952 26048 "GET /__debug__/render_panel/?store_id=115d2715aa3942788cefdc6bf42f19d6&panel_id=SettingsPanel HTTP/1.1" 200 531
+INFO 2023-10-05 19:16:31,336 autoreload 13952 26880 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-05 19:16:31,765 autoreload 11964 19236 Watching for file changes with StatReloader
+INFO 2023-10-05 19:16:44,544 autoreload 11964 19236 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-05 19:16:45,016 autoreload 29076 14700 Watching for file changes with StatReloader
+INFO 2023-10-05 19:17:57,567 autoreload 29076 14700 E:\python_Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-10-14 00:52:30,020 autoreload 26772 27236 Watching for file changes with StatReloader
+INFO 2023-10-14 00:54:13,996 autoreload 7148 26892 Watching for file changes with StatReloader
+INFO 2023-10-14 00:55:19,616 autoreload 27852 25080 Watching for file changes with StatReloader
+INFO 2023-10-14 00:56:33,171 autoreload 27852 25080 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myapp5\models.py changed, reloading.
+INFO 2023-10-14 00:56:34,546 autoreload 26820 28136 Watching for file changes with StatReloader
+INFO 2023-10-14 00:57:46,608 autoreload 26820 28136 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 00:57:47,487 autoreload 29296 29532 Watching for file changes with StatReloader
+INFO 2023-10-14 00:57:51,545 autoreload 29332 28996 Watching for file changes with StatReloader
+INFO 2023-10-14 00:58:20,796 autoreload 28372 27744 Watching for file changes with StatReloader
+INFO 2023-10-14 01:00:22,294 autoreload 29532 28012 Watching for file changes with StatReloader
+INFO 2023-10-14 01:12:13,718 autoreload 29532 28012 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:12:14,595 autoreload 28172 26736 Watching for file changes with StatReloader
+INFO 2023-10-14 01:12:18,318 autoreload 26592 28244 Watching for file changes with StatReloader
+INFO 2023-10-14 01:13:01,606 autoreload 26592 28244 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:13:02,544 autoreload 25532 28204 Watching for file changes with StatReloader
+INFO 2023-10-14 01:13:49,928 autoreload 25960 29288 Watching for file changes with StatReloader
+INFO 2023-10-14 01:17:21,834 autoreload 25960 29288 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:17:22,714 autoreload 26840 30036 Watching for file changes with StatReloader
+INFO 2023-10-14 01:19:04,717 autoreload 26840 30036 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:19:05,611 autoreload 26736 26848 Watching for file changes with StatReloader
+INFO 2023-10-14 01:20:28,359 autoreload 26736 26848 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:20:29,263 autoreload 22656 27064 Watching for file changes with StatReloader
+INFO 2023-10-14 01:22:32,179 autoreload 30712 25380 Watching for file changes with StatReloader
+INFO 2023-10-14 01:23:25,334 autoreload 30712 25380 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:27:39,624 autoreload 30316 29104 Watching for file changes with StatReloader
+INFO 2023-10-14 01:30:25,771 autoreload 30316 29104 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 01:30:56,994 autoreload 30544 30236 Watching for file changes with StatReloader
+ERROR 2023-10-14 01:32:05,972 log 30544 13596 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 16, in __init__
+    self.storages = [
+                    ^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in <listcomp>
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 77, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\conf\__init__.py", line 111, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+ERROR 2023-10-14 01:32:05,984 basehttp 30544 13596 "GET / HTTP/1.1" 500 145
+ERROR 2023-10-14 01:32:06,087 log 30544 13596 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 16, in __init__
+    self.storages = [
+                    ^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in <listcomp>
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 77, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\conf\__init__.py", line 111, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+ERROR 2023-10-14 01:32:06,094 basehttp 30544 13596 "GET /favicon.ico HTTP/1.1" 500 145
+INFO 2023-10-14 12:42:31,059 autoreload 33396 33400 Watching for file changes with StatReloader
+ERROR 2023-10-14 12:42:45,138 log 33396 33076 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 16, in __init__
+    self.storages = [
+                    ^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in <listcomp>
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 77, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\venv\Lib\site-packages\django\conf\__init__.py", line 111, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+ERROR 2023-10-14 12:42:45,197 basehttp 33396 33076 "GET /favicon.ico HTTP/1.1" 500 145
+INFO 2023-10-14 12:44:23,936 autoreload 33396 33400 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 12:44:24,847 autoreload 32772 29332 Watching for file changes with StatReloader
+INFO 2023-10-14 12:44:26,648 basehttp 32772 23912 "GET / HTTP/1.1" 200 301
+WARNING 2023-10-14 12:44:26,695 log 32772 23912 Not Found: /favicon.ico
+WARNING 2023-10-14 12:44:26,696 basehttp 32772 23912 "GET /favicon.ico HTTP/1.1" 404 179
+INFO 2023-10-14 19:03:54,939 autoreload 41068 35200 Watching for file changes with StatReloader
+INFO 2023-10-14 19:04:11,443 basehttp 41068 41224 "GET / HTTP/1.1" 200 301
+WARNING 2023-10-14 21:42:18,658 log 41068 43152 Not Found: /__debug__
+WARNING 2023-10-14 21:42:18,660 basehttp 41068 43152 "GET /__debug__ HTTP/1.1" 404 179
+WARNING 2023-10-14 21:44:11,907 log 41068 43152 Not Found: /__debug__/
+WARNING 2023-10-14 21:44:11,909 basehttp 41068 43152 "GET /__debug__/ HTTP/1.1" 404 179
+INFO 2023-10-14 21:45:13,556 basehttp 41068 43144 "GET / HTTP/1.1" 200 301
+WARNING 2023-10-14 21:45:13,597 log 41068 43144 Not Found: /favicon.ico
+WARNING 2023-10-14 21:45:13,597 basehttp 41068 43144 "GET /favicon.ico HTTP/1.1" 404 179
+INFO 2023-10-14 21:46:55,331 basehttp 41068 43152 "GET / HTTP/1.1" 200 301
+INFO 2023-10-14 21:55:15,182 autoreload 41068 35200 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\urls.py changed, reloading.
+INFO 2023-10-14 21:55:16,166 autoreload 37328 40676 Watching for file changes with StatReloader
+INFO 2023-10-14 21:55:21,002 basehttp 37328 23056 "GET / HTTP/1.1" 200 301
+INFO 2023-10-14 21:55:28,796 basehttp 37328 42712 "GET / HTTP/1.1" 200 301
+INFO 2023-10-14 21:56:11,647 basehttp 37328 23056 "GET / HTTP/1.1" 200 300
+INFO 2023-10-14 21:56:16,843 basehttp 37328 42712 "GET / HTTP/1.1" 200 300
+INFO 2023-10-14 21:57:59,766 autoreload 37328 40676 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\urls.py changed, reloading.
+INFO 2023-10-14 21:58:00,735 autoreload 44136 38740 Watching for file changes with StatReloader
+INFO 2023-10-14 21:58:02,893 basehttp 44136 37328 "GET / HTTP/1.1" 200 300
+INFO 2023-10-14 21:58:03,742 basehttp 44136 37328 "GET / HTTP/1.1" 200 300
+INFO 2023-10-14 21:58:47,546 autoreload 44136 38740 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-14 21:58:48,468 autoreload 41512 35968 Watching for file changes with StatReloader
+INFO 2023-10-14 21:58:51,648 basehttp 41512 39316 "GET / HTTP/1.1" 200 10066
+INFO 2023-10-14 21:58:51,680 basehttp 41512 39316 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-10-14 21:58:51,702 basehttp 41512 42744 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-10-14 21:58:51,711 basehttp 41512 39316 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-10-14 21:58:51,741 basehttp 41512 42744 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2023-10-14 21:59:43,266 basehttp 41512 42744 "GET /debug/render_panel/?store_id=75faadffe0b04d46b2f52334b9a695df&panel_id=HistoryPanel HTTP/1.1" 200 2497
+INFO 2023-10-14 21:59:43,291 basehttp 41512 42744 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2023-10-14 21:59:48,889 basehttp 41512 42744 "GET /debug/history_sidebar/?store_id=75faadffe0b04d46b2f52334b9a695df&exclude_history=True HTTP/1.1" 200 10768
+INFO 2023-10-14 21:59:50,041 basehttp 41512 42744 "GET /debug/history_sidebar/?store_id=75faadffe0b04d46b2f52334b9a695df&exclude_history=True HTTP/1.1" 200 10768
+INFO 2023-10-14 22:00:00,322 basehttp 41512 42744 "GET /debug/render_panel/?store_id=75faadffe0b04d46b2f52334b9a695df&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2023-10-14 23:11:59,642 autoreload 6792 1548 Watching for file changes with StatReloader
+INFO 2023-10-14 23:12:06,262 basehttp 6792 11348 "GET / HTTP/1.1" 200 10070
+WARNING 2023-10-14 23:12:07,130 log 6792 11348 Not Found: /favicon.ico
+WARNING 2023-10-14 23:12:07,206 basehttp 6792 11348 "GET /favicon.ico HTTP/1.1" 404 12394
+INFO 2023-10-14 23:12:33,782 basehttp 6792 12260 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2023-10-14 23:13:53,155 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=SettingsPanel HTTP/1.1" 200 27425
+INFO 2023-10-14 23:14:48,049 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=HeadersPanel HTTP/1.1" 200 5265
+INFO 2023-10-14 23:16:07,346 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=RequestPanel HTTP/1.1" 200 2087
+INFO 2023-10-14 23:17:59,846 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=SQLPanel HTTP/1.1" 200 428
+INFO 2023-10-14 23:18:52,742 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=StaticFilesPanel HTTP/1.1" 200 45571
+INFO 2023-10-14 23:20:42,958 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=TemplatesPanel HTTP/1.1" 200 6633
+INFO 2023-10-14 23:21:08,472 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2023-10-14 23:21:19,137 basehttp 6792 13072 "GET /debug/render_panel/?store_id=d5b09fefc8dc494e906c523c17e8b16f&panel_id=SignalsPanel HTTP/1.1" 200 2265
+INFO 2023-10-14 23:23:11,233 basehttp 6792 13072 "GET /les4/user/add HTTP/1.1" 200 10837
+INFO 2023-10-14 23:23:11,264 basehttp 6792 13128 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2023-10-14 23:23:24,760 basehttp 6792 13128 "GET /les4/user/add/ HTTP/1.1" 200 11156
+INFO 2023-10-14 23:23:28,268 basehttp 6792 13128 "GET /debug/render_panel/?store_id=df064d284924439b9ae50f51cebe6efc&panel_id=ProfilingPanel HTTP/1.1" 200 49891
+INFO 2023-10-14 23:25:58,490 autoreload 6792 1548 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\urls.py changed, reloading.
+INFO 2023-10-14 23:25:59,463 autoreload 12892 2212 Watching for file changes with StatReloader
+INFO 2023-10-15 01:25:34,930 autoreload 17920 18132 Watching for file changes with StatReloader
+INFO 2023-10-15 01:25:40,815 basehttp 17920 18288 "GET / HTTP/1.1" 200 10513
+INFO 2023-10-15 01:25:40,837 basehttp 17920 18288 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-15 01:25:40,840 basehttp 17920 17400 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-15 01:25:40,941 basehttp 17920 17400 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-15 01:25:40,967 basehttp 17920 17400 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2023-10-15 01:26:05,754 log 17920 17400 Not Found: /les6/
+WARNING 2023-10-15 01:26:05,755 basehttp 17920 17400 "GET /les6/ HTTP/1.1" 404 13328
+INFO 2023-10-15 01:26:21,727 basehttp 17920 17400 "GET /les6/db HTTP/1.1" 200 10819
+INFO 2023-10-15 01:26:51,316 basehttp 17920 18288 "GET /les6/db/ HTTP/1.1" 200 10644
+INFO 2023-10-15 01:27:42,267 basehttp 17920 18288 "GET /debug/render_panel/?store_id=2ed83225bffc4c308fc7ace3e729f4db&panel_id=SQLPanel HTTP/1.1" 200 5772
+INFO 2023-10-15 01:28:23,912 basehttp 17920 18288 "GET /les6/view/ HTTP/1.1" 200 10630
+INFO 2023-10-15 01:28:31,773 basehttp 17920 18288 "GET /debug/render_panel/?store_id=87abfc91e20f498ea2ef4179e2666e49&panel_id=SQLPanel HTTP/1.1" 200 6979
+INFO 2023-10-15 01:28:49,194 basehttp 17920 18288 "GET /debug/render_panel/?store_id=87abfc91e20f498ea2ef4179e2666e49&panel_id=ProfilingPanel HTTP/1.1" 200 42889
+INFO 2023-10-15 01:29:25,657 basehttp 17920 18288 "GET /les6/template/ HTTP/1.1" 200 10607
+INFO 2023-10-15 01:30:02,818 autoreload 17920 18132 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myapp5\models.py changed, reloading.
+INFO 2023-10-15 01:30:03,790 autoreload 15400 16208 Watching for file changes with StatReloader
+INFO 2023-10-15 01:30:09,537 basehttp 15400 17944 "GET /les6/template/ HTTP/1.1" 200 10614
+INFO 2023-10-15 01:30:16,778 basehttp 15400 17944 "GET /les6/template/ HTTP/1.1" 200 10614
+INFO 2023-10-15 01:30:20,011 basehttp 15400 17944 "GET /les6/template/ HTTP/1.1" 200 10614
+INFO 2023-10-15 01:30:23,810 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=RequestPanel HTTP/1.1" 200 2317
+INFO 2023-10-15 01:30:25,199 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=SQLPanel HTTP/1.1" 200 31057
+INFO 2023-10-15 01:31:29,813 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=SignalsPanel HTTP/1.1" 200 2310
+INFO 2023-10-15 01:31:30,423 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=TemplatesPanel HTTP/1.1" 200 7323
+INFO 2023-10-15 01:31:58,024 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=ProfilingPanel HTTP/1.1" 200 37890
+INFO 2023-10-15 01:32:51,032 basehttp 15400 17944 "GET /debug/render_panel/?store_id=8eb141a9009c43cbb6f74ff77c956c97&panel_id=HistoryPanel HTTP/1.1" 200 5799
+INFO 2023-10-15 01:32:51,038 basehttp 15400 17944 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 304 0
+INFO 2023-10-15 01:33:07,613 basehttp 15400 17944 "GET /debug/history_refresh/?store_id=8eb141a9009c43cbb6f74ff77c956c97&exclude_history=True HTTP/1.1" 200 5051
+INFO 2023-10-15 01:33:08,389 basehttp 15400 17944 "GET /debug/history_refresh/?store_id=8eb141a9009c43cbb6f74ff77c956c97&exclude_history=True HTTP/1.1" 200 5051
+WARNING 2023-10-15 01:33:23,172 log 15400 17944 Not Found: /les6
+WARNING 2023-10-15 01:33:23,173 basehttp 15400 17944 "GET /les6 HTTP/1.1" 404 12914
+INFO 2023-10-15 01:33:24,758 basehttp 15400 17944 "GET /debug/render_panel/?store_id=5816588d084143bfa4b7e947ed8c43ed&panel_id=HistoryPanel HTTP/1.1" 200 7433
+INFO 2023-10-15 01:33:39,993 basehttp 15400 17944 "GET /les6/db/ HTTP/1.1" 200 10643
+INFO 2023-10-15 01:33:41,602 basehttp 15400 17944 "GET /debug/render_panel/?store_id=e555895dcdce4a808d1d886395a429a7&panel_id=HistoryPanel HTTP/1.1" 200 9071
+INFO 2023-10-15 01:33:52,875 basehttp 15400 17944 "GET /debug/render_panel/?store_id=e555895dcdce4a808d1d886395a429a7&panel_id=SQLPanel HTTP/1.1" 200 5772
+INFO 2023-10-15 01:48:28,736 autoreload 15400 16208 C:\Users\Home-PC\Лекции, семинары\15 Django\lections(all)\project\myproject\settings.py changed, reloading.
+INFO 2023-10-15 01:48:29,791 autoreload 18116 16556 Watching for file changes with StatReloader
